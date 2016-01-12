@@ -1,0 +1,123 @@
+/* ADD YOUR STYLES HERE */
+/* EXERCISE 1 */
+
+.table {
+	width: 100%;
+}
+.row {
+	border-bottom: 1px solid #000;
+	height: 50px;
+}
+
+.bottom-row {
+	height: 50px;
+}
+/* EXERCISE 2 */
+.th-style {
+	border-bottom: 1px solid #000;
+	height: 50px;
+}
+
+.header {
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 17px; 
+}
+
+.stats {
+	height: 50px;
+	text-align: center;
+	border-bottom: solid 1px #000;
+	border-top: solid 1px #000;
+}
+
+.numberka {
+	font-weight: bold;
+	font-size: 35px;
+	font-family: Arial;
+}
+
+.text {
+	font-size: 11px;
+	color: gray;
+}
+
+.borders {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/* EXERCISE 3 */
+.mytable {
+	width: 700px;
+}
+
+.mytable div {
+	background-color: #357EC7;
+	padding: 3px;
+	padding-left: 5px;
+	text-align: left;
+	color: white;
+	border-radius: 5px;
+}
+
+.mytable th {
+	width: 100px;
+	font-size:12px;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 10px;
+	vertical-align: middle;
+	}
+
+.mytable td {
+	font-size: 12px;
+	}
+
+/* EXERCISE 4 */
+.submit {
+	width: 150px;
+	height: 50px;
+	border-radius: 5px;
+ 	background-color: #ff6767;
+ 	opacity: 50%;
+}
+
+.button {
+	color: white;
+	text-decoration: none;
+}
+
+.main {
+	width: 700px;
+	height: 500px;
+	background-color: #333;
+	position: relative;
+	}
+
+.first-box {
+	width: 540px;
+	height: 250px;
+	top: 100px;
+    right: 60px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;
+	position: absolute;
+	}
+
+.button-frame {
+	text-align: right;
+	}
+
+/* EXERCISE 5 */
+
+.left {
+	float: left;
+	padding-right: 15px;
+}
+
+.flow {
+	overflow: hidden;
+}
+
